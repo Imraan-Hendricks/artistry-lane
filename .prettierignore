@@ -33,11 +33,7 @@ yarn-error.log*
 next-env.d.ts
 
 # custom
-/cypress.env.json
-/cypress/downloads
-/cypress/videos
-/cypress/screenshots
 /prisma/.env
-/prisma/dev.db
-/prisma/dev.db-journal
+/prisma/schema.prisma
+/src/utils/env-utils.ts
 /.env
