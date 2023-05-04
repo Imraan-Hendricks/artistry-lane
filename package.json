@@ -1,7 +1,13 @@
 {
   "name": "artistry-lane",
-  "version": "0.1.1",
+  "version": "0.1.2",
+  "author": "Imraan-Hendricks",
+  "description": "Artistry Lane is a web application that provides a platform for artists to showcase and sell their artwork online",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Imraan-Hendricks/artistry-lane"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
